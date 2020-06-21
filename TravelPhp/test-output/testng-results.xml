@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35206" started-at="2020-06-21T19:05:30Z" finished-at="2020-06-21T19:06:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35206" started-at="2020-06-21T19:05:30Z" finished-at="2020-06-21T19:06:05Z">
+      <class name="TravelPhp.TravelPhp.Travelphptests">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TravelPhp.TravelPhp.Travelphptests@be83e4]" name="beforeClass" is-config="true" duration-ms="11564" started-at="2020-06-22T00:35:30Z" finished-at="2020-06-22T00:35:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Selectflight()[pri:0, instance:TravelPhp.TravelPhp.Travelphptests@be83e4]" name="Selectflight" duration-ms="3968" started-at="2020-06-22T00:35:42Z" description="Select filgt and Economy category" finished-at="2020-06-22T00:35:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selectflight -->
+        <test-method status="PASS" signature="SelectRoundtrip()[pri:0, instance:TravelPhp.TravelPhp.Travelphptests@be83e4]" name="SelectRoundtrip" duration-ms="130" started-at="2020-06-22T00:35:46Z" description="Select Roundtrip" finished-at="2020-06-22T00:35:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectRoundtrip -->
+        <test-method status="PASS" signature="FromCity()[pri:0, instance:TravelPhp.TravelPhp.Travelphptests@be83e4]" name="FromCity" duration-ms="1090" started-at="2020-06-22T00:35:46Z" description="Select from city" finished-at="2020-06-22T00:35:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FromCity -->
+        <test-method status="PASS" signature="ToCity()[pri:0, instance:TravelPhp.TravelPhp.Travelphptests@be83e4]" name="ToCity" duration-ms="1286" started-at="2020-06-22T00:35:47Z" description="Select To city" finished-at="2020-06-22T00:35:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToCity -->
+        <test-method status="PASS" signature="Departdate()[pri:0, instance:TravelPhp.TravelPhp.Travelphptests@be83e4]" name="Departdate" duration-ms="2036" started-at="2020-06-22T00:35:48Z" description="Depart date" finished-at="2020-06-22T00:35:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Departdate -->
+        <test-method status="PASS" signature="Returndate()[pri:0, instance:TravelPhp.TravelPhp.Travelphptests@be83e4]" name="Returndate" duration-ms="2074" started-at="2020-06-22T00:35:50Z" description="Return date" finished-at="2020-06-22T00:35:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Returndate -->
+        <test-method status="PASS" signature="SelectAdults()[pri:0, instance:TravelPhp.TravelPhp.Travelphptests@be83e4]" name="SelectAdults" duration-ms="267" started-at="2020-06-22T00:35:52Z" description="Select Adults" finished-at="2020-06-22T00:35:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectAdults -->
+        <test-method status="PASS" signature="SelectChild()[pri:0, instance:TravelPhp.TravelPhp.Travelphptests@be83e4]" name="SelectChild" duration-ms="162" started-at="2020-06-22T00:35:53Z" description="Select Childs" finished-at="2020-06-22T00:35:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectChild -->
+        <test-method status="PASS" signature="SearchResult()[pri:0, instance:TravelPhp.TravelPhp.Travelphptests@be83e4]" name="SearchResult" duration-ms="12443" started-at="2020-06-22T00:35:53Z" description="Search Result" finished-at="2020-06-22T00:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchResult -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TravelPhp.TravelPhp.Travelphptests@be83e4]" name="afterClass" is-config="true" duration-ms="145" started-at="2020-06-22T00:36:05Z" finished-at="2020-06-22T00:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TravelPhp.TravelPhp.Travelphptests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
